@@ -1,0 +1,19 @@
+# Private/local files
+Local_Emails_Names.csv
+Local_SurveyCompletions.csv
+Local_asanaData.csv
+Local_asanaData_single.csv
+Local_surveyMonkey.csv
+Image20250630140836.png
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+
+# Ignore system files
+Thumbs.db
+
+#Ignore test files
+/test
+/connectionTest
+/connection1
