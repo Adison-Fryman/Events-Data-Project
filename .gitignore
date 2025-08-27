@@ -9,6 +9,8 @@ Image20250630140836.png
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
 
+# Ignore Tableau full WB's
+.twb
 
 # Ignore system files
 Thumbs.db
