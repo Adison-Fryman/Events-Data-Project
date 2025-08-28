@@ -1,4 +1,5 @@
 # Private/local files
+Family Futures EventTabling Feedback.csv
 2025_Events_Planning.csv
 Local_Emails_Names.csv
 Local_SurveyCompletions.csv
@@ -11,12 +12,13 @@ Image20250630140836.png
 .ipynb_checkpoints/
 
 # Ignore Tableau full WB's
-.twb
+*.twb
 
 # Ignore system files
 Thumbs.db
 
-#Ignore test files
-/test
-/connectionTest
-/connection1
+#Ignore test files and data files
+/test/
+/connectionTest/
+/connection1/
+/Raw Data/
